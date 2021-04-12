@@ -1,0 +1,2 @@
+# Stoic-si
+ Perosonal-proyect
