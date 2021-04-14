@@ -1,0 +1,24 @@
+// ::::::: MAIN STYLES ::::::: //
+* {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+body {
+    background: url("../../img/home-page-background.png");
+    background-repeat: no-repeat; // You will ReVisit
+    background-position: center top;
+        a {
+            text-decoration: none;
+        }
+}
+
+
+// ::::::: HEADER STYLES ::::::: //
+nav {
+display: flex;
+justify-content: center;
+align-items: center;
+    & img {
+        margin: 1.25rem 1.25rem;
+    }
+}
