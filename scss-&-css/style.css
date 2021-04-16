@@ -55,7 +55,6 @@ body a {
 }
 
 .lek-grid {
-  background-color: firebrick;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -63,10 +62,17 @@ body a {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+  overflow-x: scroll;
+  padding-left: 1.875rem;
+}
+
+.lek-grid .lek-col-4 {
+  padding-right: 1.875rem;
 }
 
 div[class^="ft-lek"] {
   background-color: #000;
+  border-radius: 15px;
   width: 276px;
   height: 100px;
   margin: 1rem 0.5625rem;
@@ -89,9 +95,8 @@ div[class^="ft-lek"] .type-section {
           flex-direction: column;
 }
 
-a[href^="random"] {
-  display: block;
-  width: 276px;
+div[class^="ft-lek"] img {
+  border-radius: 15px 0 0 15px;
 }
 
 nav {

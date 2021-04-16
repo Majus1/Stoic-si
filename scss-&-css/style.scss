@@ -34,15 +34,24 @@ body {
         }
 }
 .lek-grid {
-    background-color: firebrick;
     display: flex;
     flex-direction: row;
+    overflow-x: scroll;
+    padding-left: 1.875rem;
+        .lek-col-4 {
+            // Tukaj kontroliramo koliko prstorčka
+            // nam ostane ko swipamo do konca lex-grida.
+            // In si ogledamo vse dope lekcije.
+            padding-right: 1.875rem;
+        }
 }
+
 div[class^="ft-lek"] {
     // Boom tole je startst with selector
     // ki targetira vsak div ki ima clas ki se začne
     // z ft-lek
     background-color: #000;
+    border-radius: 15px;
     width: $ft-lek-width;
     height: $ft-lek-height;
     margin: 1rem 0.5625rem;
@@ -52,14 +61,10 @@ div[class^="ft-lek"] {
             display: flex;
             flex-direction: column;
         }
+        & img {
+            border-radius: 15px 0 0 15px;
+        }
 }
-a[href^="random"] {
-    // Slednji rull elegantno omeji klikabilno
-    // polje na container od ft-lek
-    display: block;
-    width: $ft-lek-width;
-}
-
 // ::::::: HEADER STYLES ::::::: //
 nav {
 display: flex;
