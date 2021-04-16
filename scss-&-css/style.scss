@@ -14,7 +14,7 @@ body {
             text-decoration: none;
         }
 }
-// :::Class style :::/
+// ::: Class style :::/
 .intro-sect {
     margin: 1.25rem auto $m-sect-bottom-margin;
     text-align: center;
@@ -28,7 +28,30 @@ body {
             margin-bottom: 0;
         }
 }
-
+// : Grid za lekcije :/
+.prikaz-lek {
+    margin: 1.25rem auto $m-sect-bottom-margin;
+    text-align: center;
+        & h3 {
+            margin: 0 0 1.5rem 0;
+        }
+}
+div[class^="ft-lek"] {
+    // Boom tole je startst with selector
+    // ki targetira vsak div ki ima clas ki se začne
+    // z ft-lek
+    background-color: #000;
+    width: $ft-lek-width;
+    height: $ft-lek-height;
+    display: flex;
+    flex-direction: row-reverse;
+}
+a[href^="random"] {
+    // Slednji rull elegantno omeji klikabilno
+    // polje na container od ft-lek
+    display: block;
+    width: $ft-lek-width;
+}
 
 // ::::::: HEADER STYLES ::::::: //
 nav {

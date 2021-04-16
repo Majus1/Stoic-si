@@ -30,6 +30,33 @@ body a {
   margin-bottom: 0;
 }
 
+.prikaz-lek {
+  margin: 1.25rem auto 3.5rem;
+  text-align: center;
+}
+
+.prikaz-lek h3 {
+  margin: 0 0 1.5rem 0;
+}
+
+div[class^="ft-lek"] {
+  background-color: #000;
+  width: 276px;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
+a[href^="random"] {
+  display: block;
+  width: 276px;
+}
+
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
