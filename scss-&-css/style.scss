@@ -1,11 +1,13 @@
+// ::::::: IMPORTS ::::::: //
+@import "utilities/variables";
 // ::::::: MAIN STYLES ::::::: //
 * {
     font-family: 'Poppins', sans-serif;
-    color: whitesmoke;
+    color: $primary-type-color;
 }
 body {
     background: linear-gradient(transparent 10%, #000),
-                url("../../img/home-page-background.png");
+                url("../img/home-page-background.png");
     background-repeat: no-repeat; // You will ReVisit
     background-position: center top;
         a {
@@ -14,13 +16,17 @@ body {
 }
 // :::Class style :::/
 .intro-sect {
-    margin: 1.25rem auto;
+    margin: 1.25rem auto $m-sect-bottom-margin;
     text-align: center;
     width: 330px;
         & h1 {
             width: 70%;
             margin: 0 auto;
             line-height: 1.4;
+        }
+        & p {
+            margin-bottom
+            : 0;
         }
 }
 
