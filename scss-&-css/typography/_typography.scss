@@ -1,0 +1,12 @@
+@import "../utilities/variables";
+// ::::::: TYPE STYLES used ::::::: //
+* {
+    font-family: 'Poppins', sans-serif;
+    color: $primary-type-color;
+}
+.small-text {
+    font-size: 12px;
+}
+.extra-small-text {
+    font-size: 7px;
+}

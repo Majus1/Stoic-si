@@ -1,10 +1,7 @@
 // ::::::: IMPORTS ::::::: //
-@import "utilities/variables";
+@import "typography/typography",
+        "utilities/variables";
 // ::::::: MAIN STYLES ::::::: //
-* {
-    font-family: 'Poppins', sans-serif;
-    color: $primary-type-color;
-}
 body {
     background: linear-gradient(transparent 10%, #000),
                 url("../img/home-page-background.png");
