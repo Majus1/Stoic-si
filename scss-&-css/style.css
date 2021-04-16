@@ -29,6 +29,43 @@ body a {
   text-decoration: none;
 }
 
+fieldset {
+  border: none;
+  display: block;
+}
+
+label {
+  color: rgba(245, 245, 245, 0.701);
+  position: relative;
+  right: 90px;
+  top: 25px;
+}
+
+input[type=email] {
+  border: none;
+  border-bottom: 3px solid whitesmoke;
+  width: 100%;
+  background: none;
+  padding-top: 20px;
+  margin-bottom: 1.25rem;
+}
+
+button[type="submit"] {
+  font-weight: 500;
+  background: #21CA8F;
+  border: none;
+  border-radius: 7.5px;
+  padding: 0.85rem 0;
+  width: 100%;
+  display: block;
+}
+
+button[type="submit"]:hover {
+  background: #35dea3;
+  border: none;
+  border-radius: 7.5px;
+}
+
 .intro-sect {
   margin: 1.25rem auto 3.5rem;
   text-align: center;
@@ -51,7 +88,7 @@ body a {
 }
 
 .prikaz-lek h3 {
-  margin: 0 0 1.5rem 0;
+  margin: 0;
 }
 
 .lek-grid {
@@ -97,6 +134,16 @@ div[class^="ft-lek"] .type-section {
 
 div[class^="ft-lek"] img {
   border-radius: 15px 0 0 15px;
+}
+
+.sign-up {
+  margin: 1.25rem auto 3.5rem;
+  text-align: center;
+  width: 330px;
+}
+
+.sign-up p {
+  margin-bottom: 0;
 }
 
 nav {

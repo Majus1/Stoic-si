@@ -11,6 +11,38 @@ body {
             text-decoration: none;
         }
 }
+fieldset {
+    border: none;
+    display: block;
+}
+label {
+    color: $tertiary-type-color;
+    position: relative;
+    right: 90px;
+    top: 25px;
+}
+input[type=email] {
+    border: none;
+    border-bottom: 3px solid $primary-type-color;
+    width: 100%;
+    background: none;
+    padding-top: 20px;
+    margin-bottom: 1.25rem;
+  }
+  button[type="submit"] {
+      font-weight: 500;
+      background: $accent-color;
+      border: none;
+      border-radius: 7.5px;
+      padding: 0.85rem 0 ;
+      width: 100%;
+      display: block;
+        &:hover {
+            background: $active-accent-color;
+            border: none;
+            border-radius: 7.5px;
+        }
+  }
 // ::: Class style :::/
 .intro-sect {
     margin: 1.25rem auto $m-sect-bottom-margin;
@@ -30,7 +62,7 @@ body {
     margin: 1.25rem auto $m-sect-bottom-margin;
     text-align: center;
         & h3 {
-            margin: 0 0 1.5rem 0;
+            margin: 0;
         }
 }
 .lek-grid {
@@ -63,6 +95,16 @@ div[class^="ft-lek"] {
         }
         & img {
             border-radius: 15px 0 0 15px;
+        }
+}
+
+
+.sign-up {
+    margin: 1.25rem auto $m-sect-bottom-margin;
+    text-align: center;
+    width: 330px;
+        & p {
+            margin-bottom: 0;
         }
 }
 // ::::::: HEADER STYLES ::::::: //
