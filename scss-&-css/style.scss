@@ -33,6 +33,11 @@ body {
             margin: 0 0 1.5rem 0;
         }
 }
+.lek-grid {
+    background-color: firebrick;
+    display: flex;
+    flex-direction: row;
+}
 div[class^="ft-lek"] {
     // Boom tole je startst with selector
     // ki targetira vsak div ki ima clas ki se začne
@@ -40,8 +45,13 @@ div[class^="ft-lek"] {
     background-color: #000;
     width: $ft-lek-width;
     height: $ft-lek-height;
+    margin: 1rem 0.5625rem;
     display: flex;
     flex-direction: row-reverse;
+        & .type-section {
+            display: flex;
+            flex-direction: column;
+        }
 }
 a[href^="random"] {
     // Slednji rull elegantno omeji klikabilno
