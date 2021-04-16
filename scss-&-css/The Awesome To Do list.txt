@@ -1,0 +1,6 @@
+The Awesome To Do list
+
+• Nadaljujemo z urejanem cssa na index strani
+• Lotimo se css lekcija pagov
+• Naredimo še info page
+• Pogledamo si kako je z mail kampanjami.
