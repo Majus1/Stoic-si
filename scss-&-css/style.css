@@ -288,4 +288,40 @@ nav a {
   text-transform: uppercase;
   font-weight: 700;
 }
+
+@media (min-width: 767px) {
+  nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  nav img {
+    margin-top: 1.75rem;
+    margin-right: 35%;
+    margin-left: 35%;
+  }
+  nav a {
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  .intro-sect {
+    width: 80%;
+  }
+  .lek-grid {
+    padding-left: 9%;
+  }
+  .sign-up {
+    width: 80%;
+  }
+  .sign-up p {
+    text-align: center;
+    width: 70%;
+  }
+}
 /*# sourceMappingURL=style.css.map */

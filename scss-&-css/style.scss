@@ -233,3 +233,34 @@ align-items: center;
         font-weight: 700;
     }
 }
+// ::::::: MEDIA QUERIES ::::::: //
+@media (min-width: 767px) {
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+            & img {
+                margin-top: 1.75rem;
+                margin-right: 35%;
+                margin-left: 35%;
+            }
+            & a {
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+        }
+        .intro-sect {
+            width: 80%;
+        }
+        .lek-grid {
+            padding-left: 9%;
+        }
+        .sign-up {
+            width: 80%;
+                p {
+                    text-align: center;
+                    width: 70%;
+                }
+        }
+        // TULAK SI OSTAL
+}
