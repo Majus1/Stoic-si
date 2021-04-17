@@ -133,37 +133,43 @@ div[class^="ft-lek"] {
 }
 
 // ::: ID STYLES :::/
-body[id$="1"] {
+#lek {
     // Rul je namenjen menjavi odzadja posamične lekcije
-    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
-    url(../img/background-image-lek-1.png);
-    background-repeat: no-repeat; // You will ReVisit
-    background-position: center top;
-    margin: 0;
-}
-body[id$="2"] {
-    // Rul je namenjen menjavi odzadja posamične lekcije
-    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
-    url(../img/background-image-lek-2.png);
-    background-repeat: no-repeat; // You will ReVisit
-    background-position: center top;
-    margin: 0;
-}
-body[id$="3"] {
-    // Rul je namenjen menjavi odzadja posamične lekcije
-    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
-    url(../img/background-image-lek-3.png);
-    background-repeat: no-repeat; // You will ReVisit
-    background-position: center top;
-    margin: 0;
-}
-body[id$="4"] {
-    // Rul je namenjen menjavi odzadja posamične lekcije
-    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
-    url(../img/background-image-lek-4.png);
-    background-repeat: no-repeat; // You will ReVisit
-    background-position: center top;
-    margin: 0;
+    &-1 {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+        url(../img/background-image-lek-1.png);
+        background-repeat: no-repeat; // You will ReVisit
+        background-position: center top;
+        margin: 0;
+    }
+    &-2 {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+        url(../img/background-image-lek-2.png);
+        background-repeat: no-repeat; // You will ReVisit
+        background-position: center top;
+        margin: 0;
+    }
+    &-3 {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+        url(../img/background-image-lek-3.png);
+        background-repeat: no-repeat; // You will ReVisit
+        background-position: center top;
+        margin: 0;
+    }
+    &-4 {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+        url(../img/background-image-lek-4.png);
+        background-repeat: no-repeat; // You will ReVisit
+        background-position: center top;
+        margin: 0;
+    }
+    &-5 {
+        background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+        url(../img/background-image-lek-5.png);
+        background-repeat: no-repeat; // You will ReVisit
+        background-position: center top;
+        margin: 0;
+    }
 }
 // ::::::: HEADER STYLES ::::::: //
 nav {
