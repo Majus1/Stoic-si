@@ -141,6 +141,14 @@ body[id$="1"] {
     background-position: center top;
     margin: 0;
 }
+body[id$="2"] {
+    // Rul je namenjen menjavi odzadja posamične lekcije
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+    url(../img/background-image-lek-2.png);
+    background-repeat: no-repeat; // You will ReVisit
+    background-position: center top;
+    margin: 0;
+}
 // ::::::: HEADER STYLES ::::::: //
 nav {
 display: flex;
