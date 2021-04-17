@@ -149,6 +149,22 @@ body[id$="2"] {
     background-position: center top;
     margin: 0;
 }
+body[id$="3"] {
+    // Rul je namenjen menjavi odzadja posamične lekcije
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+    url(../img/background-image-lek-3.png);
+    background-repeat: no-repeat; // You will ReVisit
+    background-position: center top;
+    margin: 0;
+}
+body[id$="4"] {
+    // Rul je namenjen menjavi odzadja posamične lekcije
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+    url(../img/background-image-lek-4.png);
+    background-repeat: no-repeat; // You will ReVisit
+    background-position: center top;
+    margin: 0;
+}
 // ::::::: HEADER STYLES ::::::: //
 nav {
 display: flex;
