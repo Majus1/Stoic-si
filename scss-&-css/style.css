@@ -172,11 +172,12 @@ div[class^="ft-lek"] img {
   margin-bottom: 0;
 }
 
-#lek-1 {
+body[id$="1"] {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-1.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-1.png);
   background-repeat: no-repeat;
   background-position: center top;
+  margin: 0;
 }
 
 nav {

@@ -133,11 +133,13 @@ div[class^="ft-lek"] {
 }
 
 // ::: ID STYLES :::/
-#lek-1 {
+body[id$="1"] {
+    // Rul je namenjen menjavi odzadja posamične lekcije
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
     url(../img/background-image-lek-1.png);
     background-repeat: no-repeat; // You will ReVisit
     background-position: center top;
+    margin: 0;
 }
 // ::::::: HEADER STYLES ::::::: //
 nav {
