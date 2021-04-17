@@ -212,6 +212,62 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+#lek-6 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-6.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-6.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-7 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-7.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-7.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-8 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-8.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-8.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-9 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-9.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-9.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-10 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-10.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-10.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-11 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-11.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-11.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
+#lek-12 {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-12.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-12.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin: 0;
+}
+
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
