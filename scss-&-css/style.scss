@@ -4,7 +4,7 @@
 
 // ::::::: MAIN STYLES ::::::: //
 body {
-    background: linear-gradient(transparent 10%, #000),
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
                 url("../img/home-page-background.png");
     background-repeat: no-repeat; // You will ReVisit
     background-position: center top;
@@ -121,6 +121,7 @@ div[class^="ft-lek"] {
             border-radius: 15px 0 0 15px;
         }
 }
+
 // : Form :/
 .sign-up {
     margin: 1.25rem auto $m-sect-bottom-margin;
@@ -129,6 +130,14 @@ div[class^="ft-lek"] {
         & p {
             margin-bottom: 0;
         }
+}
+
+// ::: ID STYLES :::/
+#lek-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+    url(../img/background-image-lek-1.png);
+    background-repeat: no-repeat; // You will ReVisit
+    background-position: center top;
 }
 // ::::::: HEADER STYLES ::::::: //
 nav {
