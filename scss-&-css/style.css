@@ -479,18 +479,19 @@ nav a {
     margin: 1rem auto;
   }
   .prikaz-lek {
-    border: 2px solid red;
     padding-right: 0;
     padding-left: 0;
   }
   .prikaz-lek .lek-grid {
-    border: 2px solid aquamarine;
+    overflow-x: visible;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     padding-right: 0;
     padding-left: 0;
   }
-  .lek-col-4 {
-    padding: 0;
-    border: aquamarine 2px solid;
+  .prikaz-lek .lek-grid .lek-col-4 {
+    padding-right: 0;
   }
 }
 /*# sourceMappingURL=style.css.map */

@@ -374,17 +374,19 @@ align-items: center;
         margin: 1rem auto;
     }
     .prikaz-lek {
-        border: 2px solid red;
+    padding-right: 0;
+    padding-left: 0;
+        .lek-grid {
+        overflow-x: visible;
+        justify-content: center;
         padding-right: 0;
         padding-left: 0;
-            .lek-grid {
-                border: 2px solid aquamarine;
-                padding-right: 0;
-                padding-left: 0;
+            .lek-col-4 {
+            // Tukaj kontroliramo koliko prstorčka
+            // nam ostane ko swipamo do konca lex-grida.
+            // In si ogledamo vse dope lekcije.
+            padding-right: 0;
             }
-    }
-    .lek-col-4 {
-        padding: 0;
-        border: aquamarine 2px solid;
+        }
     }
 }
