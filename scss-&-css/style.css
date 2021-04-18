@@ -23,11 +23,17 @@ body {
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url("../img/home-page-background.png");
   background-repeat: no-repeat;
   background-position: center top;
-  min-height: 850px;
+  min-height: 100vh;
 }
 
 body a {
   text-decoration: none;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 fieldset {
@@ -193,12 +199,30 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-2 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-2_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-2_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-3 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-3.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-3.png);
   background-repeat: no-repeat;
   background-position: center top;
   margin: 0;
+}
+
+@media (min-width: 767px) {
+  #lek-3 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-3_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-3_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }
 
 #lek-4 {
@@ -209,12 +233,30 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-4 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-4_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-4_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-5 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-5.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-5.png);
   background-repeat: no-repeat;
   background-position: center top;
   margin: 0;
+}
+
+@media (min-width: 767px) {
+  #lek-5 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-6_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-6_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }
 
 #lek-6 {
@@ -225,12 +267,30 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-6 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-6_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-6_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-7 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-7.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-7.png);
   background-repeat: no-repeat;
   background-position: center top;
   margin: 0;
+}
+
+@media (min-width: 767px) {
+  #lek-7 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-7_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-7_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }
 
 #lek-8 {
@@ -241,12 +301,30 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-8 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-8_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-8_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-9 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-9.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-9.png);
   background-repeat: no-repeat;
   background-position: center top;
   margin: 0;
+}
+
+@media (min-width: 767px) {
+  #lek-9 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-9_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-9_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }
 
 #lek-10 {
@@ -257,6 +335,15 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-10 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-10_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-10_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-11 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-11.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-11.png);
@@ -265,12 +352,30 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-11 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-11_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-11_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-12 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-12.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-12.png);
   background-repeat: no-repeat;
   background-position: center top;
   margin: 0;
+}
+
+@media (min-width: 767px) {
+  #lek-12 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-12_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-12_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
 }
 
 nav {
@@ -345,8 +450,8 @@ nav a {
   input[type="email"] {
     width: 98%;
   }
-  footer {
-    padding-bottom: 3rem;
+  body {
+    min-height: 100vh;
   }
 }
 /*# sourceMappingURL=style.css.map */

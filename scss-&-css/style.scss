@@ -8,10 +8,15 @@ body {
                 url("../img/home-page-background.png");
     background-repeat: no-repeat; // You will ReVisit
     background-position: center top;
-    min-height: 850px;
+    min-height: 100vh;
         a {
             text-decoration: none;
         }
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 fieldset {
     border: none;
@@ -150,6 +155,12 @@ div[class^="ft-lek"] {
         url(../img/background-image-lek-2.png);
         background-repeat: no-repeat;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-2_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-3 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -157,6 +168,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-3_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-4 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -164,6 +181,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-4_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-5 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -171,6 +194,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-6_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-6 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -178,6 +207,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-6_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-7 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -185,6 +220,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-7_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-8 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -192,6 +233,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-8_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-9 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -199,6 +246,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-9_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-10 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -206,6 +259,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-10_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-11 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -213,6 +272,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+                url(../img/background-image-lek-11_tablet.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
     }
     &-12 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -220,6 +285,12 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+        @media (min-width: 767px) {
+            background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
+            url(../img/background-image-lek-12_tablet.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
     }
 }
 // ::::::: HEADER STYLES ::::::: //
@@ -281,7 +352,7 @@ align-items: center;
         input[type="email"] {
             width: 98%;
         }
-        footer {
-            padding-bottom: 3rem;
+        body {
+            min-height: 100vh;
         }
 } 
