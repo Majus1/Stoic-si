@@ -42,7 +42,7 @@ label {
   top: 25px;
 }
 
-input[type=email] {
+input[type="email"] {
   border: none;
   border-bottom: 3px solid whitesmoke;
   width: 100%;
@@ -321,7 +321,18 @@ nav a {
   }
   .sign-up p {
     text-align: center;
-    width: 70%;
+    width: 85%;
+    margin: 0 auto;
+  }
+  label {
+    right: 225px;
+    top: 35px;
+  }
+  fieldset {
+    padding: 0;
+  }
+  input[type="email"] {
+    width: 98%;
   }
 }
 /*# sourceMappingURL=style.css.map */
