@@ -141,6 +141,9 @@ div[class^="ft-lek"] {
         background-repeat: no-repeat; // You will ReVisit
         background-position: center top;
         margin: 0;
+            @media (min-width: 767px) {
+                background-color: aquamarine;
+            }
     }
     &-2 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),

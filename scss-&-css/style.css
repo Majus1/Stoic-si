@@ -180,6 +180,12 @@ div[class^="ft-lek"] img {
   margin: 0;
 }
 
+@media (min-width: 767px) {
+  #lek-1 {
+    background-color: aquamarine;
+  }
+}
+
 #lek-2 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-2.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-2.png);
