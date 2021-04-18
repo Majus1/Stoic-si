@@ -321,7 +321,7 @@ nav a {
   .intro-sect h1 {
     width: 35%;
   }
-  .intro-sect p {
+  .intro-sect .readability {
     width: 80%;
   }
   .lek-grid {
