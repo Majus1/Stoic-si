@@ -68,8 +68,7 @@ input[type="email"] {
             text-align: left;
         }
         hr {
-            border: 1.25px solid $primary-type-color;
-            background-color: $primary-type-color;
+            border: 0.1px solid $primary-type-color;
             width: 20%;
             margin-left: 0;
             margin-top: 2rem;
@@ -254,6 +253,12 @@ align-items: center;
         }
         .intro-sect {
             width: 80%;
+                h1 {
+                    width: 35%;
+                }
+                p {
+                    width: 80%;
+                }
         }
         .lek-grid {
             padding-left: 9%;

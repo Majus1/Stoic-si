@@ -94,8 +94,7 @@ button[type="submit"]:hover {
 }
 
 .intro-sect hr {
-  border: 1.25px solid whitesmoke;
-  background-color: whitesmoke;
+  border: 0.1px solid whitesmoke;
   width: 20%;
   margin-left: 0;
   margin-top: 2rem;
@@ -317,6 +316,12 @@ nav a {
     font-weight: 700;
   }
   .intro-sect {
+    width: 80%;
+  }
+  .intro-sect h1 {
+    width: 35%;
+  }
+  .intro-sect p {
     width: 80%;
   }
   .lek-grid {
