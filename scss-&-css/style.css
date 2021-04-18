@@ -96,11 +96,9 @@ button[type="submit"]:hover {
 .intro-sect hr {
   border: 1.25px solid whitesmoke;
   background-color: whitesmoke;
-  position: relative;
-  right: 130px;
   width: 20%;
-  text-align: left;
-  margin-top: 1rem;
+  margin-left: 0;
+  margin-top: 2rem;
 }
 
 .intro-sect .avtor {
@@ -182,7 +180,10 @@ div[class^="ft-lek"] img {
 
 @media (min-width: 767px) {
   #lek-1 {
-    background-color: aquamarine;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-1_tablet.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-1_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 }
 
@@ -190,7 +191,6 @@ div[class^="ft-lek"] img {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-2.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-2.png);
   background-repeat: no-repeat;
-  background-position: center top;
   margin: 0;
 }
 
@@ -339,6 +339,9 @@ nav a {
   }
   input[type="email"] {
     width: 98%;
+  }
+  footer {
+    padding-bottom: 3rem;
   }
 }
 /*# sourceMappingURL=style.css.map */
