@@ -355,4 +355,36 @@ align-items: center;
         body {
             min-height: 100vh;
         }
-} 
+}
+@media (min-width: 1024px) {
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+            & img {
+                margin: 2.25rem 3.25rem;
+            }
+            & a {
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+        }
+    .intro-sect p {
+        width: 50%;
+        margin: 1rem auto;
+    }
+    .prikaz-lek {
+        border: 2px solid red;
+        padding-right: 0;
+        padding-left: 0;
+            .lek-grid {
+                border: 2px solid aquamarine;
+                padding-right: 0;
+                padding-left: 0;
+            }
+    }
+    .lek-col-4 {
+        padding: 0;
+        border: aquamarine 2px solid;
+    }
+}
