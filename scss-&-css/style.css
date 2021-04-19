@@ -116,6 +116,7 @@ button[type="submit"]:hover {
 
 .intro-sect .avtor {
   font-weight: 500;
+  padding-bottom: 5rem;
   text-align: left;
 }
 
