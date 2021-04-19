@@ -482,6 +482,9 @@ nav a {
     text-transform: uppercase;
     font-weight: 700;
   }
+  .intro-sect {
+    margin-top: 7%;
+  }
   .intro-sect p {
     width: 50%;
     margin: 1rem auto;
@@ -529,7 +532,7 @@ nav a {
   p.avtor {
     width: 40%;
   }
-  main {
+  #lekcija {
     padding-bottom: 5rem;
   }
   footer nav {
