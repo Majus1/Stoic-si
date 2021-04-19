@@ -5,5 +5,8 @@ The Awesome To Do list
 • Lotimo se css lekcija pagov 😛
 • Naredimo še info page 😛
 • make tablet view.😛
-• Make desktop view.
+• Make desktop view.😛
+• How to make more cute scrolling bar?
+• How to host your site for free on git hub? (github pages?)
+• How does it look on mobile?
 • Pogledamo si kako je z mail kampanjami.

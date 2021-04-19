@@ -146,8 +146,7 @@ div[class^="ft-lek"] {
     &-1 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
         url(../img/background-image-lek-1.png);
-        background-repeat: no-repeat; // You will ReVisit
-        background-position: center top;
+        background-size: cover;
         margin: 0;
             @media (min-width: 767px) {
                 background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
@@ -202,8 +201,7 @@ div[class^="ft-lek"] {
     &-4 {
         background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
         url(../img/background-image-lek-4.png);
-        background-repeat: no-repeat; // You will ReVisit
-        background-position: center top;
+        background-size: cover;
         margin: 0;
             @media (min-width: 767px) {
                 background: linear-gradient(rgba(0, 0, 0, 0.15), #000),
