@@ -51,7 +51,27 @@ input[type="email"] {
             border-radius: 7.5px;
         }
   }
-
+// : The scrol bar :/
+/* width */
+::-webkit-scrollbar {
+    width: 2px;
+    height: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
 // ::: Class style :::/
 .intro-sect {
     margin: 1.25rem auto $m-sect-bottom-margin;

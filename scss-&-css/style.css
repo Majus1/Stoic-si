@@ -74,6 +74,27 @@ button[type="submit"]:hover {
   border-radius: 7.5px;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 2px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
 .intro-sect {
   margin: 1.25rem auto 3.5rem;
   text-align: center;
