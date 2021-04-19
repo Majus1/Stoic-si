@@ -201,6 +201,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-1 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-1_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-1_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-2 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-2.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-2.png);
@@ -212,6 +221,15 @@ div[class^="ft-lek"] img {
   #lek-2 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-2_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-2_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-2 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-2_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-2_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -234,6 +252,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-3 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-3_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-3_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-4 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-4.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-4.png);
@@ -246,6 +273,15 @@ div[class^="ft-lek"] img {
   #lek-4 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-4_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-4_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-4 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-4_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-4_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -268,6 +304,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-5 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-5_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-5_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-6 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-6.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-6.png);
@@ -280,6 +325,15 @@ div[class^="ft-lek"] img {
   #lek-6 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-6_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-6_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-6 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-6_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-6_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -302,6 +356,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-7 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-7_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-7_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-8 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-8.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-8.png);
@@ -314,6 +377,15 @@ div[class^="ft-lek"] img {
   #lek-8 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-8_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-8_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-8 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-8_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-8_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -336,6 +408,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-9 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-9_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-9_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-10 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-10.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-10.png);
@@ -348,6 +429,15 @@ div[class^="ft-lek"] img {
   #lek-10 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-10_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-10_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-10 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-10_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-10_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -370,6 +460,15 @@ div[class^="ft-lek"] img {
   }
 }
 
+@media (min-width: 1024px) {
+  #lek-11 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-11_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-11_desktop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
 #lek-12 {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-12.png);
   background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-12.png);
@@ -382,6 +481,15 @@ div[class^="ft-lek"] img {
   #lek-12 {
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.15)), to(#000)), url(../img/background-image-lek-12_tablet.png);
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-12_tablet.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 1024px) {
+  #lek-12 {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.135)), to(#000)), url(../img/background-image-lek-1_desktop.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.135), #000), url(../img/background-image-lek-1_desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
