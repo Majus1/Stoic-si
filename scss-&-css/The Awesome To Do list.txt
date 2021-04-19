@@ -6,7 +6,8 @@ The Awesome To Do list
 • Naredimo še info page 😛
 • make tablet view.😛
 • Make desktop view.😛
-• How to make more cute scrolling bar?
-• How to host your site for free on git hub? (github pages?)
-• How does it look on mobile?
+• How to make more cute scrolling bar?😛
+• How to host your site for free on git hub? (github pages?)😛
+• Fix header not sync on desktop.😛
+• How does it look on mobile? (great) 😛 
 • Pogledamo si kako je z mail kampanjami.

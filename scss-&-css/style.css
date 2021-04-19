@@ -132,6 +132,7 @@ button[type="submit"]:hover {
   .intro-sect hr {
     width: 40%;
     margin-left: auto;
+    max-width: 614.391px;
   }
 }
 
@@ -618,6 +619,7 @@ nav a {
   .intro-sect p {
     width: 50%;
     margin: 1rem auto;
+    max-width: 614.391px;
   }
   .prikaz-lek {
     padding-right: 0;
