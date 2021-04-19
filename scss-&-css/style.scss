@@ -389,4 +389,20 @@ align-items: center;
             }
         }
     }
+    .sign-up {
+        width: 40%;
+            label {
+                right: 270px;
+                top: 35px;
+            }
+    }
+    div[class^=ft-lek] {
+        transition-duration: 0.2s;
+    }
+    
+    div[class^=ft-lek]:hover {
+        background-color: #171717;
+        transform: translateY(-5px);
+    }
+    // porihtaj interaktivnost posamičnih ft-lek
 }

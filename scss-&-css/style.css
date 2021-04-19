@@ -493,5 +493,21 @@ nav a {
   .prikaz-lek .lek-grid .lek-col-4 {
     padding-right: 0;
   }
+  .sign-up {
+    width: 40%;
+  }
+  .sign-up label {
+    right: 270px;
+    top: 35px;
+  }
+  div[class^=ft-lek] {
+    -webkit-transition-duration: 0.2s;
+            transition-duration: 0.2s;
+  }
+  div[class^=ft-lek]:hover {
+    background-color: #171717;
+    -webkit-transform: translateY(-5px);
+            transform: translateY(-5px);
+  }
 }
 /*# sourceMappingURL=style.css.map */
