@@ -9,6 +9,7 @@ body {
     background-repeat: no-repeat; // You will ReVisit
     background-position: center top;
     min-height: 100vh;
+    position: relative;
         a {
             text-decoration: none;
         }
@@ -77,6 +78,10 @@ input[type="email"] {
             width: 20%;
             margin-left: 0;
             margin-top: 2rem;
+            @media (min-width: 1024px) {
+                width: 40%;
+                margin-left: auto;
+            }
         }
         & .avtor {
             font-weight: 500;
@@ -396,13 +401,40 @@ align-items: center;
                 top: 35px;
             }
     }
+    // Spodnja diva sta odgovorna za potek animacije na desktop view. 
     div[class^=ft-lek] {
         transition-duration: 0.2s;
     }
-    
     div[class^=ft-lek]:hover {
         background-color: #171717;
         transform: translateY(-5px);
     }
-    // porihtaj interaktivnost posamičnih ft-lek
+    .intro-sect .primary {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .intro-sect .readability {
+        text-align: left;
+        width: 40%;
+        margin: 1rem auto 0;
+    }
+    p.avtor {
+        width: 40%;
+    }
+    // the footer
+    main {
+        padding-bottom: 5rem;
+    }
+    footer nav {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 5rem;
+        background-color: rgba(0, 0, 0, 0.15);
+        margin-top: 20px;
+    }
+    body {
+        min-height: 100vh;
+    }
+        // the footer
 }

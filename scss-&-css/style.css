@@ -24,6 +24,7 @@ body {
   background-repeat: no-repeat;
   background-position: center top;
   min-height: 100vh;
+  position: relative;
 }
 
 body a {
@@ -104,6 +105,13 @@ button[type="submit"]:hover {
   width: 20%;
   margin-left: 0;
   margin-top: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .intro-sect hr {
+    width: 40%;
+    margin-left: auto;
+  }
 }
 
 .intro-sect .avtor {
@@ -508,6 +516,32 @@ nav a {
     background-color: #171717;
     -webkit-transform: translateY(-5px);
             transform: translateY(-5px);
+  }
+  .intro-sect .primary {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .intro-sect .readability {
+    text-align: left;
+    width: 40%;
+    margin: 1rem auto 0;
+  }
+  p.avtor {
+    width: 40%;
+  }
+  main {
+    padding-bottom: 5rem;
+  }
+  footer nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 5rem;
+    background-color: rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+  }
+  body {
+    min-height: 100vh;
   }
 }
 /*# sourceMappingURL=style.css.map */
