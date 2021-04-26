@@ -16,10 +16,6 @@ FRONT END STUFF
 
 
 MARKETING STUFF
-• Poišči primere uspešnih email kampanjan v povezavi z mental health.😛
-• Poišči uspešni primer welcome mailing sekvence za za ...😛
+• Poišči primere uspešnih email kampanjan v povezavi z mental health.
+• Poišči uspešni primer welcome mailing sekvence za za ...
 • Izdelaj cute register form 
-• Integritaj spletni gorm
-• Testiraj spletmi form
-• Translate mailing prototype into Eweber
-• Test mail campagin    
