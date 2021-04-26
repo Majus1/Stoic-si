@@ -45,11 +45,12 @@ fieldset {
 label {
   color: rgba(245, 245, 245, 0.701);
   position: relative;
-  right: 90px;
+  right: 35%;
   top: 25px;
 }
 
-input[type="email"] {
+input[type="email"],
+input[type="text"] {
   border: none;
   border-bottom: 3px solid whitesmoke;
   width: 100%;
@@ -580,7 +581,7 @@ nav a {
     margin: 0 auto;
   }
   label {
-    right: 225px;
+    right: 45%;
     top: 35px;
   }
   fieldset {
@@ -640,7 +641,7 @@ nav a {
     width: 40%;
   }
   .sign-up label {
-    right: 270px;
+    right: 45%;
     top: 35px;
   }
   div[class^=ft-lek] {

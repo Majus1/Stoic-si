@@ -26,10 +26,11 @@ fieldset {
 label {
     color: $tertiary-type-color;
     position: relative;
-    right: 90px;
+    right: 35%;
     top: 25px;
 }
-input[type="email"] {
+input[type="email"],
+input[type="text"] {
     border: none;
     border-bottom: 3px solid $primary-type-color;
     width: 100%;
@@ -442,7 +443,7 @@ align-items: center;
                 }
         }
         label {
-            right: 225px;
+            right: 45%;
             top: 35px;
         }
         fieldset {
@@ -495,7 +496,7 @@ align-items: center;
     .sign-up {
         width: 40%;
             label {
-                right: 270px;
+                right: 45%;
                 top: 35px;
             }
     }
