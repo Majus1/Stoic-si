@@ -37,8 +37,9 @@ input[type="text"] {
     background: none;
     padding-top: 20px;
     margin-bottom: 1.25rem;
+    
   }
-  button[type="submit"] {
+  input[type="submit"] {
       font-weight: 500;
       background: $accent-color;
       border: none;
@@ -449,7 +450,9 @@ align-items: center;
         fieldset {
             padding: 0;
         }
-        input[type="email"] {
+        input[type="email"],
+        input[type="text"]
+         {
             width: 98%;
         }
         body {
