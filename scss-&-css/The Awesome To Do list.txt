@@ -10,15 +10,4 @@ The Awesome To Do list
 • How to host your site for free on git hub? (github pages?)😛
 • Fix header not sync on desktop.😛
 • How does it look on mobile? (great) 😛 
-<<<<<<< HEAD
 • Pogledamo si kako je z mail kampanjami.
-=======
-• Pogledamo si kako je z mail kampanjami.😛
-• Integrate register form to page.
-
-
-MARKETING STUFF
-• Poišči primere uspešnih email kampanjan v povezavi z mental health.
-• Poišči uspešni primer welcome mailing sekvence za za ...
-• Izdelaj cute register form 
->>>>>>> parent of c80bab8 (Adding Awever form Test)
