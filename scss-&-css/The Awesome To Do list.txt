@@ -1,6 +1,5 @@
 The Awesome To Do list
 
-FRONT END STUFF
 • Nadaljujemo z urejanem cssa na index strani 😛
 • Make more contrast v odzadju. 😛
 • Lotimo se css lekcija pagov 😛
@@ -11,11 +10,4 @@ FRONT END STUFF
 • How to host your site for free on git hub? (github pages?)😛
 • Fix header not sync on desktop.😛
 • How does it look on mobile? (great) 😛 
-• Pogledamo si kako je z mail kampanjami.😛
-• Integrate register form to page.
-
-
-MARKETING STUFF
-• Poišči primere uspešnih email kampanjan v povezavi z mental health.
-• Poišči uspešni primer welcome mailing sekvence za za ...
-• Izdelaj cute register form 
+• Pogledamo si kako je z mail kampanjami.
