@@ -13,12 +13,14 @@ The Awesome To Do list
 • Pogledamo si kako je z mail kampanjami. 😛 
 
 26. 4
-• Integriraj email sign up form.
-• fix customize email sign up form.
-• Check if sign up form work.
+• Integriraj email sign up form. 😛
+• fix customize email sign up form. 😛
+• Check if sign up form work. 😛
 
 27.4
 • Preveri kako je z ipad pro brake pointi
+• Why background not sreaching? Rešeno z backgroun cover in background-repeat no repeat. 😛
+• Why text brake page flow? 
 
 28.4
 • Postavi welcoming serijo kampanj v Aweberji

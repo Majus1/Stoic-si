@@ -176,6 +176,10 @@ div[class^="ft-lek"] {
                 url(../img/background-image-lek-1_tablet.png);
                 background-size: cover;
                 background-repeat: no-repeat;
+                position: relative;
+                footer {
+                    position: static;
+                }
             }
             @media (min-width: 1024px) {
                 background: linear-gradient(rgba(0, 0, 0, 0.135), #000),
@@ -439,6 +443,7 @@ align-items: center;
         }
         .lek-grid {
             padding-left: 9%;
+            overflow-x: hidden;
         }
         .sign-up {
             width: 80%;
@@ -479,11 +484,15 @@ align-items: center;
         }
     .intro-sect {
         margin-top: 7%;
-    }
-    .intro-sect p {
-        width: 50%;
-        margin: 1rem auto;
-        max-width: 614.391px;
+        p {
+            width: 50%;
+            margin: 1rem auto;
+            max-width: 614.391px;
+            min-width: 614.391px;
+        }
+        hr {
+            min-width: 614.391px;
+        }
     }
     .prikaz-lek {
     padding-right: 0;

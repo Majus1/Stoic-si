@@ -220,6 +220,10 @@ div[class^="ft-lek"] img {
     background: linear-gradient(rgba(0, 0, 0, 0.15), #000), url(../img/background-image-lek-1_tablet.png);
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
+  }
+  #lek-1 footer {
+    position: static;
   }
 }
 
@@ -576,6 +580,7 @@ nav a {
   }
   .lek-grid {
     padding-left: 9%;
+    overflow-x: hidden;
   }
   .sign-up {
     width: 80%;
@@ -627,6 +632,10 @@ nav a {
     width: 50%;
     margin: 1rem auto;
     max-width: 614.391px;
+    min-width: 614.391px;
+  }
+  .intro-sect hr {
+    min-width: 614.391px;
   }
   .prikaz-lek {
     padding-right: 0;
