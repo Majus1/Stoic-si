@@ -411,6 +411,8 @@ align-items: center;
 @media (min-width: 767px) {
     body {
         position: static;
+        background-size: cover;
+        background-repeat: no-repeat; // You will ReVisit
     }
     nav {
         display: flex;
