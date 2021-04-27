@@ -540,6 +540,9 @@ nav a {
 }
 
 @media (min-width: 767px) {
+  body {
+    position: static;
+  }
   nav {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -628,7 +631,6 @@ nav a {
     padding-left: 0;
   }
   .prikaz-lek .lek-grid {
-    overflow-x: visible;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;

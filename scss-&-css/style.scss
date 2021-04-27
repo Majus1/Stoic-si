@@ -409,6 +409,9 @@ align-items: center;
 }
 // ::::::: MEDIA QUERIES ::::::: //
 @media (min-width: 767px) {
+    body {
+        position: static;
+    }
     nav {
         display: flex;
         justify-content: center;
@@ -484,7 +487,6 @@ align-items: center;
     padding-right: 0;
     padding-left: 0;
         .lek-grid {
-        overflow-x: visible;
         justify-content: center;
         padding-right: 0;
         padding-left: 0;
