@@ -22,9 +22,9 @@ The Awesome To Do list
 • Why background not sreaching? Rešeno z backgroun cover in background-repeat no repeat. 😛
 • Why text brake page flow? 😛
 
-28.4
+4.5
 • Postavi welcoming serijo kampanj v Aweberji (Template: Welcome Series-#1)
-• Here are directions that show you how to do that.
-
-29.4
+• Dokončaj mockup za predstavitev funkcionalnosti
+• Umesti mock up v email kampanjo
+• Ustvari še sledečo soslednjo serijo mailov
 • Testiraj welcoming sekvenco mailov
