@@ -53,6 +53,10 @@ input[type="text"] {
             border-radius: 7.5px;
         }
   }
+  .small-text {
+      min-width: 160px;
+      padding-right: 10px;
+  }
 // : The scrol bar :/
 /* width */
 ::-webkit-scrollbar {

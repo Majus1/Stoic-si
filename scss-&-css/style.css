@@ -75,6 +75,11 @@ input[type="submit"]:hover {
   border-radius: 7.5px;
 }
 
+.small-text {
+  min-width: 160px;
+  padding-right: 10px;
+}
+
 /* width */
 ::-webkit-scrollbar {
   width: 2px;
