@@ -56,7 +56,15 @@ input[type="text"] {
   .small-text {
       min-width: 160px;
       padding-right: 10px;
+      line-height: 1.2rem;
+      padding-bottom: 0;
+      margin-bottom: 0;
   }
+//   .extra-small-text {
+//       margin-bottom: 12px;
+//       display: relative;
+//       top: 20px;
+//   }
 // : The scrol bar :/
 /* width */
 ::-webkit-scrollbar {

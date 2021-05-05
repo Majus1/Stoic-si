@@ -23,8 +23,7 @@ The Awesome To Do list
 • Why text brake page flow? 😛
 
 4.5
-• Postavi welcoming serijo kampanj v Aweberji (Template: Welcome Series-#1)
-• Dokončaj mockup za predstavitev funkcionalnosti
-• Umesti mock up v email kampanjo
-• Ustvari še sledečo soslednjo serijo mailov
-• Testiraj welcoming sekvenco mailov
+• Postavi welcoming serijo kampanj v Aweberji (Template: Welcome Series-#1) 😛
+• Dokončaj mockup za predstavitev funkcionalnosti 
+• Ustvari še sledečo soslednjo serijo mailov 😛
+• Testiraj welcoming sekvenco mailov 
