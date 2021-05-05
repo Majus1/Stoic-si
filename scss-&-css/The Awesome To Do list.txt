@@ -26,5 +26,5 @@ The Awesome To Do list
 • Postavi welcoming serijo kampanj v Aweberji (Template: Welcome Series-#1) 😛
 • Dokončaj mockup za predstavitev funkcionalnosti 
 • Ustvari še sledečo soslednjo serijo mailov 😛
-• Testiraj welcoming sekvenco mailov 
-• Thank you page.
+• Testiraj welcoming sekvenco mailov 😛
+• Custom thank you page. Add new sign up form alredy created in Aweber.
