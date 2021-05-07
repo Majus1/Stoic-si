@@ -22,9 +22,18 @@ The Awesome To Do list
 • Why background not sreaching? Rešeno z backgroun cover in background-repeat no repeat. 😛
 • Why text brake page flow? 😛
 
-5.5
+7.5
 • Postavi welcoming serijo kampanj v Aweberji (Template: Welcome Series-#1) 😛
-• Dokončaj mockup za predstavitev funkcionalnosti 
+• Dokončaj mockup za predstavitev funkcionalnosti 😛
 • Ustvari še sledečo soslednjo serijo mailov 😛
 • Testiraj welcoming sekvenco mailov 😛
-• Custom thank you page. Add new sign up form alredy created in Aweber.
+• Dodaj registration-success.html page 😛
+• Posodobitev mailing campanje (Prva lekcija nas pričaka instantno).😛
+• Custom thank you page. Add new sign up form alredy created in Aweber.😛
+• Želim da labeli izginejo when acitve.😛
+
+Cntent related part
+• Poišči ustrezen prevod daily stoica.
+• Pošči fiver prevajalca
+• Implementiraj dovršen copy v spletno stran.
+
