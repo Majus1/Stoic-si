@@ -60,11 +60,14 @@ input[type="text"] {
       padding-bottom: 0;
       margin-bottom: 0;
   }
-//   .extra-small-text {
-//       margin-bottom: 12px;
-//       display: relative;
-//       top: 20px;
-//   }
+#contrast-container {
+    background-color: #000;
+    padding: 1rem;
+    border-radius: 15px;
+    h1 {
+        padding-top: 1rem;
+    }
+}
 // : The scrol bar :/
 /* width */
 ::-webkit-scrollbar {
